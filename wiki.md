@@ -12,13 +12,13 @@ One or several paragraphs.
 
 ## Section 2
 One or several paragraphs.
-### **Subsection 1**
+### Subsection 1
 One or several paragraphs.
-### **Subsection 2**
+### Subsection 2
 One or several paragraphs.
 
 ## Section 3
-One or several paragraphs for subsection 3.
+**One or several paragraphs for subsection 3.**
 
 ## See also
 - [wiki 1](https://en.wikipedia.org/wiki/Nobel_Foundation)
