@@ -1,71 +1,34 @@
 # Margaret Jou
 
-your.name@example.com
+![Image of me](assets/IMG_0932.jpeg)
 
-http://www.example.com
+email@uw.edu
 
-http://www.linkedin.com/in/yourname
+847-xxx-xxxx
+
+[GitHub](https://github.com/margaretjou)
 
 
-# Summary
+## Profile
 
-> Statement pending... (currently figuring out )
+> Statement pending... (In the process of figuring it out)
 
 ## Education
 
-**University of Washington**
-Bachelors in Geography: Data Science
+**University of Washington**  - Seattle, WA -- [UW website link](https://www.washington.edu/)
+Bachelors of Arts in Geography: Data Science
+Relevant Coursework: TBD...
 
 ## Work Experience 
-CoCo Bubble Tea
+
+**CoCo Bubble Tea** -- [CoCo website link](https://cocobubbletea.com/)
 Jan 2025 - Dec 2025
 
-## Languages
+## Skills
+- Excel
+- QGIS
+- ArcGIS
+### Languages
 - English
 - Mandarin Chinese
 - Spanish
-
-
---------------------------------------
-
-## University Name 1 (City, State)
-
-* [University 1][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
