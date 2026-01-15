@@ -7,15 +7,26 @@ http://www.example.com
 http://www.linkedin.com/in/yourname
 
 
-## Education
-
-University of Washington
-
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+> Statement pending... (currently figuring out )
 
-# Work Experience (only last 10 years)
+## Education
+
+**University of Washington**
+Bachelors in Geography: Data Science
+
+## Work Experience 
+CoCo Bubble Tea
+Jan 2025 - Dec 2025
+
+## Languages
+- English
+- Mandarin Chinese
+- Spanish
+
+
+--------------------------------------
 
 ## University Name 1 (City, State)
 
