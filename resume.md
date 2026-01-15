@@ -15,13 +15,13 @@ email@uw.edu
 
 ## Education
 
-**University of Washington**  - Seattle, WA -- [UW website link](https://www.washington.edu/)
-Bachelors of Arts in Geography: Data Science
+**University of Washington**  - Seattle, WA -- [UW website link](https://www.washington.edu/)\
+Bachelors of Arts in Geography: Data Science\
 Relevant Coursework: TBD...
 
 ## Work Experience 
 
-**CoCo Bubble Tea** -- [CoCo website link](https://cocobubbletea.com/)
+**CoCo Bubble Tea** -- [CoCo website link](https://cocobubbletea.com/)\
 Jan 2025 - Dec 2025
 
 ## Skills
